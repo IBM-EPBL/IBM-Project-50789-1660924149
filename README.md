@@ -1,6 +1,12 @@
 # IBM-Project-50789-1660924149
-Real-Time Communication System Powered by AI for Specially Abled
+PROJECT TITLE:Real-Time Communication System Powered by AI for Specially Abled
+
+TEAM ID:PNT2022TMID46656
+
 TEAM LEADER:RASHID AHAMED.S
+
 TEAM MEMBER1:SRINIVASAN.R
+
 TEAM MEMBER2:SUGUMAR.M
+
 TEAM MEMBER3:VELAVAN.G
